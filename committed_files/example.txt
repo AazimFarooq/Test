@@ -47,3 +47,5 @@ puts "Hello, World!"
 </body>
 </html>
 
+console.log("Hello, World!");
+
