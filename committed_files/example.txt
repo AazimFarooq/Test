@@ -51,3 +51,10 @@ console.log("Hello, World!");
 
 puts "Hello, World!"
 
+<!DOCTYPE html>
+<html>
+<body>
+<p>Hello, World!</p>
+</body>
+</html>
+
