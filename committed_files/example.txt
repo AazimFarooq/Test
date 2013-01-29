@@ -58,3 +58,5 @@ puts "Hello, World!"
 </body>
 </html>
 
+print("Hello, World!")
+
