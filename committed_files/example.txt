@@ -67,3 +67,7 @@ print("Hello, World!")
 </body>
 </html>
 
+body {
+    background-color: lightblue;
+}
+
