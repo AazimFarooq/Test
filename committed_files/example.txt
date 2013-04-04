@@ -236,3 +236,5 @@ public class HelloWorld {
 
 console.log("Hello, World!");
 
+print("Hello, World!")
+
