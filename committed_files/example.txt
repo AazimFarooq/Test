@@ -347,3 +347,5 @@ func main() {
 </body>
 </html>
 
+puts "Hello, World!"
+
