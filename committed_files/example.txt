@@ -391,3 +391,5 @@ public class HelloWorld {
 
 puts "Hello, World!"
 
+print("Hello, World!")
+
