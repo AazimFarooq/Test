@@ -400,3 +400,5 @@ print("Hello, World!")
 </body>
 </html>
 
+puts "Hello, World!"
+
