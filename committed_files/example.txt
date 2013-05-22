@@ -402,3 +402,7 @@ print("Hello, World!")
 
 puts "Hello, World!"
 
+body {
+    background-color: lightblue;
+}
+
