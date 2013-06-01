@@ -428,3 +428,7 @@ public class HelloWorld {
 
 print("Hello, World!")
 
+body {
+    background-color: lightblue;
+}
+
