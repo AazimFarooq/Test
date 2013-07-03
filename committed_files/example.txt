@@ -526,3 +526,5 @@ func main() {
     fmt.Println("Hello, World!")
 }
 
+puts "Hello, World!"
+
