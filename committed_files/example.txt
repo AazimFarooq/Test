@@ -530,3 +530,7 @@ puts "Hello, World!"
 
 print("Hello, World!")
 
+body {
+    background-color: lightblue;
+}
+
