@@ -562,3 +562,9 @@ public class HelloWorld {
 </body>
 </html>
 
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello, World!")
+}
+
