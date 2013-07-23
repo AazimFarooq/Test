@@ -578,3 +578,9 @@ public class HelloWorld {
 
 console.log("Hello, World!");
 
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello, World!")
+}
+
