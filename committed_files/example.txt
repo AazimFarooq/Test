@@ -592,3 +592,9 @@ print("Hello, World!")
 
 puts "Hello, World!"
 
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello, World!")
+}
+
