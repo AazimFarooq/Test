@@ -736,3 +736,7 @@ func main() {
     fmt.Println("Hello, World!")
 }
 
+body {
+    background-color: lightblue;
+}
+
