@@ -742,3 +742,7 @@ body {
 
 print("Hello, World!")
 
+body {
+    background-color: lightblue;
+}
+
