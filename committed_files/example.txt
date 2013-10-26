@@ -791,3 +791,5 @@ func main() {
     fmt.Println("Hello, World!")
 }
 
+print("Hello, World!")
+
