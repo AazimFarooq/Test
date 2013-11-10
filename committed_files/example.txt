@@ -838,3 +838,7 @@ public class HelloWorld {
 
 puts "Hello, World!"
 
+body {
+    background-color: lightblue;
+}
+
