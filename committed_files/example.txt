@@ -900,3 +900,5 @@ func main() {
     fmt.Println("Hello, World!")
 }
 
+console.log("Hello, World!");
+
