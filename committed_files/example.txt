@@ -902,3 +902,7 @@ func main() {
 
 console.log("Hello, World!");
 
+body {
+    background-color: lightblue;
+}
+
