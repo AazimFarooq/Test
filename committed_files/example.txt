@@ -917,3 +917,5 @@ int main() {
     return 0;
 }
 
+console.log("Hello, World!");
+
