@@ -925,3 +925,9 @@ body {
     background-color: lightblue;
 }
 
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello, World!")
+}
+
