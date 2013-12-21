@@ -938,3 +938,7 @@ func main() {
 </body>
 </html>
 
+body {
+    background-color: lightblue;
+}
+
